@@ -1,7 +1,7 @@
 <h2 align="left">Hey 👋🏽, I'm Ameed!</h2>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeedGhouri&theme=monokai" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AmeedGhouri&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmeedGhouri&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
 </div>
 
