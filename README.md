@@ -91,15 +91,6 @@ Building dependable digital products across web and mobile—from role-based pla
     </td>
   </tr>
   <tr>
-    <td><strong>Payments & Integrations</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-      <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-      <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs"/>
-      <img src="https://img.shields.io/badge/Apple_Services-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple services"/>
-    </td>
-  </tr>
-  <tr>
     <td><strong>Version Control & CI/CD</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
