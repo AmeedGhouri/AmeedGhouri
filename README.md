@@ -1,105 +1,163 @@
-<h1 align="center">Hi, I'm Muhammad Ameed Ghouri 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack & Mobile Developer</h3>
+# Muhammad Ameed Ghouri
 
-<p align="center">
-  I build dependable web and mobile products—from role-based platforms and multilingual marketplaces
-  to real-time applications, secure payments, subscriptions, and production delivery.
-</p>
+### Full-Stack & Mobile Developer
 
-<p align="center">
-  <a href="https://github.com/AmeedGhouri/portfolio-website"><strong>Portfolio Source</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-ameed-ghouri-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%85%DB%8C%D8%AF-%D8%BA%D9%88%D8%B1%DB%8C-46a265204"><strong>LinkedIn</strong></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:ameedghouri45@gmail.com"><strong>Email</strong></a>
-</p>
+Building dependable digital products across web and mobile—from role-based platforms and multilingual marketplaces to real-time applications, payments, subscriptions, and production delivery.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-15D8ED?style=for-the-badge&logo=vercel&logoColor=000)](https://github.com/AmeedGhouri/portfolio-website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ameed-ghouri-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%85%DB%8C%D8%AF-%D8%BA%D9%88%D8%B1%DB%8C-46a265204)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-8A79FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameedghouri45@gmail.com)
+
+<br/>
+
+`WEB` · `MOBILE` · `APIs` · `PRODUCT ENGINEERING` · `DELIVERY`
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 💼 Software Developer at **ProgStream Pvt. Ltd.**
-- 🧩 Working across full-stack web and cross-platform mobile development
-- 🔌 Experienced with REST APIs, authentication, payments, real-time features, and third-party integrations
-- 🚀 Focused on reusable architecture, reliable delivery, and maintainable product experiences
-- 📫 Reach me at **[ameedghouri45@gmail.com](mailto:ameedghouri45@gmail.com)**
+<table>
+<tr>
+<td width="50%">
 
-## Technical Expertise
+### What I Do
+
+- Build full-stack web products with **Next.js, React, and TypeScript**
+- Develop cross-platform applications using **Flutter and Dart**
+- Create and integrate **REST APIs, authentication, and payment journeys**
+- Deliver maintainable software through **Docker, CI/CD, and Vercel**
+
+</td>
+<td width="50%">
+
+### How I Work
+
+- Understand product requirements deeply
+- Design reusable, dependable architecture
+- Build responsive and accessible experiences
+- Test, review, deploy, and continuously improve
+- Collaborate through structured Git workflows
+
+</td>
+</tr>
+</table>
+
+> 💼 Software Developer at **ProgStream Pvt. Ltd.**  
+> 📫 **[ameedghouri45@gmail.com](mailto:ameedghouri45@gmail.com)**
+
+---
+
+## 🧰 Technology Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
-  <img alt="Next.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">&nbsp;
-  <img alt="React" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-  <img alt="TypeScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
-  <img alt="JavaScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
-  <img alt="HTML5" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;
-  <img alt="CSS3" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-111111?style=for-the-badge&logo=redux&logoColor=764ABC)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Mobile
 
-<p>
-  <img alt="Flutter" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">&nbsp;
-  <img alt="Dart" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">&nbsp;
-  <img alt="React Native" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-  <img alt="Kotlin" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2)
+![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 
-### Backend, Data & Delivery
+### Backend & Data
 
-<p>
-  <img alt="Laravel" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">&nbsp;
-  <img alt="PHP" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">&nbsp;
-  <img alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;
-  <img alt="MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;
-  <img alt="Firebase" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">&nbsp;
-  <img alt="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
-  <img alt="Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
-  <img alt="GitHub Actions" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![REST API](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-## Product Experience
+### Delivery
 
-- **Enterprise platforms:** Multi-role workflows for clients, consultants, and administrators
-- **Booking and scheduling:** Availability, social authentication, global payments, and subscriptions
-- **Mobile ecosystems:** Flutter applications with maps, real-time chat, Firebase, and Stripe
-- **Multilingual marketplaces:** Search, saved items, carts, localization, and buying/selling journeys
-- **Production delivery:** Docker, GitHub Actions, Vercel, API integrations, debugging, and release workflows
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Developer Pulse
+</div>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmeedGhouri&theme=tokyonight&utcOffset=5" alt="Ameed Ghouri's productive coding hours">
-</p>
+---
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's repositories by language">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's most-used commit languages">
-</p>
+## 🚀 Product Experience
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's GitHub contribution details">
-</p>
+| Area | What I Build |
+|---|---|
+| **Enterprise Platforms** | Multi-role workflows for clients, consultants, administrators, invoicing, and payments |
+| **Booking & Scheduling** | Availability, social authentication, global payments, and subscriptions |
+| **Mobile Ecosystems** | Flutter applications with maps, real-time chat, Firebase, and Stripe |
+| **Multilingual Marketplaces** | Search, saved items, carts, localization, and buying/selling journeys |
+| **Production Delivery** | API integrations, debugging, containers, automated pipelines, and releases |
 
-> GitHub metrics reflect public repository activity and update automatically.
+---
 
-## Featured Portfolio
+## 📡 Developer Pulse
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmeedGhouri&theme=tokyonight&utcOffset=5" alt="Ameed Ghouri's productive coding hours"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmeedGhouri&theme=tokyonight" alt="Repositories by language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmeedGhouri&theme=tokyonight" alt="Most-used commit languages"/>
+
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeedGhouri&theme=tokyonight" alt="GitHub contribution details"/>
+
+<sub>Live metrics reflect public GitHub activity and update automatically.</sub>
+
+</div>
+
+---
+
+## ✦ Featured Project
 
 <table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/AmeedGhouri/portfolio-website">Portfolio Website ↗</a></h3>
-      <p>Professional full-stack and mobile developer portfolio built with Next.js and TypeScript, including responsive navigation, light/dark themes, project case studies, technical expertise, certifications, and deployment configuration.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>React</code> <code>Docker</code> <code>GitHub Actions</code> <code>Vercel</code></p>
-    </td>
-  </tr>
+<tr>
+<td>
+
+### [Professional Portfolio Website ↗](https://github.com/AmeedGhouri/portfolio-website)
+
+A responsive developer portfolio presenting professional experience, real project case studies, technical expertise, certifications, and contact information through a polished light/dark interface.
+
+**Highlights**
+
+- Responsive desktop and mobile navigation
+- Animated technical-expertise globe
+- Project, experience, and certification sections
+- Custom cursor and interactive visual effects
+- Docker, GitHub Actions, and Vercel configuration
+
+`Next.js` · `React` · `TypeScript` · `Docker` · `GitHub Actions` · `Vercel`
+
+</td>
+</tr>
 </table>
 
 ---
 
-<p align="center">
-  <strong>Understand deeply. Build deliberately. Deliver reliably.</strong>
-</p>
+<div align="center">
+
+### Understand deeply. Build deliberately. Deliver reliably.
+
+<sub>Open to meaningful engineering conversations and product collaborations.</sub>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmeedGhouri&color=15d8ed&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
