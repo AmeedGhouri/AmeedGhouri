@@ -53,44 +53,16 @@ Building dependable digital products across web and mobile—from role-based pla
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Product & Technical Expertise
 
-<div align="center">
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-111111?style=for-the-badge&logo=redux&logoColor=764ABC)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-
-### Backend & Data
-
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![REST API](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-### Delivery
-
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+| Expertise Area | Core Technologies | Product Capabilities |
+|---|---|---|
+| **Frontend Engineering** | Next.js, React, TypeScript, JavaScript, Redux Toolkit, HTML5, CSS3 | Responsive interfaces, reusable component systems, typed state management, forms, dashboards, and multilingual experiences |
+| **Mobile Development** | Flutter, Dart, React Native, Kotlin | Cross-platform applications, native integrations, maps, notifications, real-time features, and app-store delivery |
+| **Backend & APIs** | Laravel, PHP, REST APIs, authentication | Role-based workflows, business logic, secure authentication, third-party services, payments, and subscription journeys |
+| **Databases & Realtime** | PostgreSQL, MySQL, Firebase | Relational data modeling, application persistence, real-time synchronization, chat, and cloud-connected workflows |
+| **Product Integrations** | Stripe, PayPal, Google APIs, Apple services, Firebase | Payments, social sign-in, maps, messaging, analytics, and platform-specific services |
+| **DevOps & Delivery** | Docker, Git, GitHub Actions, Vercel | Containerized environments, collaborative delivery, automated validation, CI/CD, and production deployment |
 
 ---
 
