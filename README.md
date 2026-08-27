@@ -111,9 +111,6 @@ Building dependable digital products across web and mobile—from role-based pla
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's GitHub statistics"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmeedGhouri&theme=tokyonight&utcOffset=5" alt="Ameed Ghouri's productive coding hours"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmeedGhouri&theme=tokyonight" alt="Repositories by language"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmeedGhouri&theme=tokyonight" alt="Most-used commit languages"/>
 
 <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeedGhouri&theme=tokyonight" alt="GitHub contribution details"/>
