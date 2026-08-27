@@ -73,8 +73,6 @@ Building dependable digital products across web and mobile—from role-based pla
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-      <img src="https://img.shields.io/badge/React_Native-087EA4?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
     </td>
   </tr>
   <tr>
@@ -90,7 +88,6 @@ Building dependable digital products across web and mobile—from role-based pla
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
     </td>
   </tr>
   <tr>
