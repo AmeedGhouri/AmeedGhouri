@@ -71,28 +71,32 @@
 ## Developer Pulse
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmeedGhouri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ameed Ghouri's GitHub statistics">
-  <img width="49%" src="https://streak-stats.demolab.com?user=AmeedGhouri&theme=tokyonight&hide_border=true" alt="Ameed Ghouri's contribution streak">
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeedGhouri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ameed Ghouri's most-used languages">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's GitHub statistics">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmeedGhouri&theme=tokyonight&utcOffset=5" alt="Ameed Ghouri's productive coding hours">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmeedGhouri&theme=tokyo-night&hide_border=true&area=true" alt="Ameed Ghouri's contribution activity graph">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's repositories by language">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's most-used commit languages">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeedGhouri&theme=tokyonight" alt="Ameed Ghouri's GitHub contribution details">
 </p>
 
 > GitHub metrics reflect public repository activity and update automatically.
 
 ## Featured Portfolio
 
-<p align="center">
-  <a href="https://github.com/AmeedGhouri/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmeedGhouri&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Portfolio website repository">
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/AmeedGhouri/portfolio-website">Portfolio Website ↗</a></h3>
+      <p>Professional full-stack and mobile developer portfolio built with Next.js and TypeScript, including responsive navigation, light/dark themes, project case studies, technical expertise, certifications, and deployment configuration.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>React</code> <code>Docker</code> <code>GitHub Actions</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
